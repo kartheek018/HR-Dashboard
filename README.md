@@ -85,18 +85,19 @@ Authentication: NextAuth.js — for secure and extensible user authentication
    <img width="1060" alt="image" src="https://github.com/user-attachments/assets/a196e7a1-d9ce-4237-a65a-fc5a26f61f58" />
    ![image](https://github.com/user-attachments/assets/98813805-cb8c-4fbc-be96-fd995d4105f9)
 7. Adding users to Bookmarks
-   <img width="1065" alt="image" src="https://github.com/user-attachments/assets/c75e515f-285f-446c-a524-65f2d6b545cd" />
+   <img width="1061" alt="image" src="https://github.com/user-attachments/assets/e372fb1a-b6cf-44dd-a71e-e553cf0ac6ac" />
 8. Bookmarked users
-   ![image](https://github.com/user-attachments/assets/b60a31b5-1603-48c0-b8d2-a9b02400a598)
+   ![image](https://github.com/user-attachments/assets/7e473fdf-045c-46fe-9d5e-fc7628477264)
 9. Viewing the users
-   ![image](https://github.com/user-attachments/assets/94968915-0599-480b-bf7d-0669d29d7eeb)
+   ![image](https://github.com/user-attachments/assets/37a282d4-f422-4b24-92dd-0d3b21b226fb)
 10. Removing the users from Bookmarks
-    ![image](https://github.com/user-attachments/assets/2989d6d5-1c2a-44a2-8973-33c980b79492)
-11. Analytic Dashboard part-1
-    ![image](https://github.com/user-attachments/assets/4493b876-2a3e-481f-8624-a6ab00a349d4)
+    ![image](https://github.com/user-attachments/assets/1fe306ac-6bb8-4239-8e19-c0b93ed0a44c)
+11. Analytic Dashboard
+    ![image](https://github.com/user-attachments/assets/f5c685bb-ab39-4af8-8ed6-c1310de19fa9)
 12. Dark Mode
-    ![image](https://github.com/user-attachments/assets/eb7590a7-a0b0-47e6-b976-b4713b9b4f2b)
+    ![image](https://github.com/user-attachments/assets/e8638b0b-8f2a-4090-ac5d-a281474c9ea7)
 13. Light Mode
-    ![image](https://github.com/user-attachments/assets/d99a478c-252d-4629-8eb7-656645efc287)
+    ![image](https://github.com/user-attachments/assets/d55898d1-80b0-4115-97cf-1384fb14b689)
 14. Responsive pages
-    ![image](https://github.com/user-attachments/assets/2565c87d-864d-478f-8150-7666acc03923)
+    ![image](https://github.com/user-attachments/assets/a970dc7a-35a1-43dd-801a-dff8eff325c3)
+
