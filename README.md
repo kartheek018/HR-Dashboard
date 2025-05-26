@@ -17,17 +17,20 @@ Analyze performance trends with interactive charts
 
 Built with scalability, modularity, and user experience in mind, the dashboard also supports dark/light modes and responsive design for seamless usage across devices.
 ### 🔧 Tech Stack
-React (with Next.js App Router) — modern, server/client hybrid rendering
+#### 1. Next.js (App Router + SSR/CSR)
+Built on React with server-side and client-side rendering.
+App Router (app/) for modular layouts and routing.
+Supports dynamic routes (e.g., /employee/[id]).
 
-Tailwind CSS — utility-first styling for rapid UI development
+#### 2. JavaScript (ES6+) — clean, modern scripting
 
-JavaScript (ES6+) — clean, modern scripting
+#### 3. State Management: Context API — for efficient global state handling
 
-State Management: Context API — for efficient global state handling
+#### 4. Charting: Chart.js — to visualize employee performance and trends
 
-Charting: Chart.js — to visualize employee performance and trends
+#### 5. Tailwind CSS — utility-first styling for rapid UI development
 
-Authentication: NextAuth.js — for secure and extensible user authentication
+#### 6. Authentication: NextAuth.js — for secure and extensible user authentication
 
 ### 🎯 Features Implemented
 | Feature                                                      | Status |
