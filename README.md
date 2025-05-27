@@ -77,7 +77,7 @@ Supports dynamic routes (e.g., /employee/[id]).
 
 ### 📷 Screenshots
 1. **Login page**
-   ![image](https://github.com/user-attachments/assets/d8bf5219-310b-48b2-b2c4-8fe965757fa8)
+   <img src="https://github.com/user-attachments/assets/d8bf5219-310b-48b2-b2c4-8fe965757fa8" alt="Login page" style="border: 10px solid #ccc; border-radius: 8px; width: 100%; max-width: 600px;">
 2. **Home page**
    ![image](https://github.com/user-attachments/assets/55c7557e-1f79-44de-b820-28d268f03279)
 3. **Users page**
